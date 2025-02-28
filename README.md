@@ -12,5 +12,7 @@ Heute habe ich mal wieder C# repetiert. Ich benutze eine Webseite die mir das se
 
 Heute habe ich mal wieder C# repetiert kann ja nicht schaden. Wieder das gleiche Thema wie letztes mal den ich brauche Objektorientiertes Programmieren sehr viel. Auch habe ich ein Paar Aufgaben gelöst von Modul 259. Das ist ein neuses Modul was ich gestern angefangen habe. Ausserdem haben wir gestern noch die Note zurückbekommen von Modul 347. Ich habe ein 4.5 erhalten. Nicht schlecht. Die Zeit veging sehr schnell und ich habe halt am meisten Zeit verbracht mit dem repetieren. 
 
+# 7.3.25
+
 - [ ] Json repetieren
 - [ ] Aufgaben von M259 nachholen 
