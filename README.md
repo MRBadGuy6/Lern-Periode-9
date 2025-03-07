@@ -14,5 +14,12 @@ Heute habe ich mal wieder C# repetiert kann ja nicht schaden. Wieder das gleiche
 
 # 7.3.25
 
-- [ ] Json repetieren
-- [ ] Aufgaben von M259 nachholen 
+- [x] Json repetieren
+- [x] Aufgaben von M259 nachholen
+
+Heute habe ich wie angegeben Json repetiert. Aus welchem Grund auch immer kann ich mir die Commands nicht merken und muss immer spicken was ziemlich frustrierend ist. Trotzdem isr es mir gelungen ein Paar Sachen im Kopf zu behalten. AUsserdem habe ich Aufgaben von Modul 259 gelöst. Gestern sind noch ein Paar übrig geblieben. In diesem Modul muss man wieder Excel anwenden, was nicht gerade meine stärke ist. Naja, immerhin konnte ich jetzt alle Aufgaben lösen und bin nicht in Rückstand. 
+
+# 14.3.25
+
+- [ ] Aufgaben von M259 nachholen
+- [ ] Aufgaben von neuen Modul bei Rapisarda nachholen 
