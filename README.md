@@ -21,5 +21,8 @@ Heute habe ich wie angegeben Json repetiert. Aus welchem Grund auch immer kann i
 
 # 14.3.25
 
-- [ ] Aufgaben von M259 nachholen
-- [ ] Aufgaben von neuen Modul bei Rapisarda nachholen 
+- [x] Aufgaben von M259 nachholen
+- [x] An LB 259 weiterarbeiten
+- [x] HTML repetieren
+
+Heute habe ich an verschiedenen bereichen gearbeitet. Auch wen ich sehr stark erkältet bin hat es mich nicht aufgehakten weiterzuarbeiten. Bei Modul 295 hat mir noch eine Aufgabe gefehlt die ich während der Stunde nicht gelöst habe. Danach habe ich noch an der LB gearbeitet aber das war ziemlich einfach. Ich musste einen Datensatz heraussuchen und es auf Git pushen. Ich hatte ein paar kleine Probleme in formatieren aber Schlussendlich hat alles funktioniert. Zu guter letzt habe ich angefangen HTML zu repetieren weil ich vorhabe eine Webseite über mich und meinen Projekten zu erstellen damit ich das für die Bewerbungen zeigen kann. 
