@@ -30,5 +30,15 @@ Heute habe ich an verschiedenen bereichen gearbeitet. Auch wen ich sehr stark er
 # 21.3.25
 
 - [ ] Anfangen Webseite erstellen 
+- [x] Aufgaben von M259 lösen 
+- [x] Aufgaben von M426 lösen
+
+
+Ich bin heute nicht dazu gekommen an der Webseite hzu arbeiten. Allerdings habe ich an den anderen Modulen gearbeitet. Habe ein Paar neue Sachen gelernt über Python und es stellt sich heraus, dass es eine sehr einfache Sprache ist. Einfacher als C#. Auch habe ich versucht ein Problem zu beheben bei Exam Net. Bei mir braucht es immer ein paar Minuten bis es startet. Also habe ich es jetzt deinstalloiert und neu installiert. Hoffelntlich geht es jetzt besser. Tja die Aufgaben haben meine ganze Zeit aufgebraucht. Es würde mich nicht überraschen wen nächstes Mal das gleiche Passiert. 
+
+# 28.3.25
+
+- [ ] Anfangen Webseite erstellen 
 - [ ] Aufgaben von M259 lösen 
 - [ ] Aufgaben von M426 lösen
+
