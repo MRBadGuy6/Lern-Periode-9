@@ -39,6 +39,8 @@ Ich bin heute nicht dazu gekommen an der Webseite hzu arbeiten. Allerdings habe 
 # 28.3.25
 
 - [ ] Anfangen Webseite erstellen 
-- [ ] Aufgaben von M259 lösen 
-- [ ] Aufgaben von M426 lösen
+- [x] Aufgaben von M259 lösen 
+- [x] Aufgaben von M426 lösen
+
+Heute habe ich an zwei Modulen gearbeitet. Modul 259 und 426. Bei 426 musste ich in python schreiben aber da das nicht meine stärke war habe ich einbisschen python repetiert bevor ich angefangen habe. Ich habe Python gebraucht um einen Datensatz zu analysieren den ich Ausgewählt habe. Bei Modul 259 wiederrum waren die Aufträge nicht so schwer. Es ging darum Code zu verbessern mit einer Checkliste. Ich habe die meiste Zeit verbrahct den Code anzusehen damit ich verstehe wie es überhaupt funktioniert. Nächstes mal werde ich nicht da sein da ich einen Arzttermin habe. 
 
